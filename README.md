@@ -18,7 +18,9 @@
 + Блок-схема основных методов:
 
 ![Основные методы](Block_Scheme_Main_Methods.png)
+
 3. Создан файл README.md с текстовым описание решения.
+
 4. Написана программа.
 ### Код программы:
 string[] CreateArray(int size)
@@ -100,5 +102,7 @@ else
     }
     else Console.Write(" -> []");
 }
+
 5. Добавлен контроль версий
+
 ![Контроль версий](Screenshot_GitLog.jpg)
