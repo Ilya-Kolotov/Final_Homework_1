@@ -99,4 +99,4 @@ else
     else Console.Write(" -> []");
 }
 5. Добавлен контроль версий
-![Контроль версий](Screenshot.png)
+![Контроль версий](Screenshot_GitLog.jpg)
